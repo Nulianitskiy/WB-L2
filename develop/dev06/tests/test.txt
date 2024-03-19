@@ -1,0 +1,4 @@
+Winter  white:   snow:    frost
+Spring  green   gras:   warm
+Summer  colorful    blossom hot
+Autumn:  yellow: leaves: cool

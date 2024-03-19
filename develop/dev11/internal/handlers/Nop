@@ -1,0 +1,18 @@
+1.708602456634346e+09	error	logger/mylog.go:34	bad repo
+github.com/KapDmitry/WB_L2/develop/dev11/internal/logger.(*CustomLogger).Log
+	c:/Users/Cybernet1c/Repository/WB_L2/WB_L2/develop/dev11/internal/logger/mylog.go:34
+github.com/KapDmitry/WB_L2/develop/dev11/internal/handlers.(*Handler).EventsForHandler
+	c:/Users/Cybernet1c/Repository/WB_L2/WB_L2/develop/dev11/internal/handlers/handlers.go:177
+github.com/KapDmitry/WB_L2/develop/dev11/internal/handlers.TestEventsForHandler
+	c:/Users/Cybernet1c/Repository/WB_L2/WB_L2/develop/dev11/internal/handlers/handlers_test.go:356
+testing.tRunner
+	C:/Program Files/Go/src/testing/testing.go:1595
+1.7086024917083013e+09	error	logger/mylog.go:34	bad repo
+github.com/KapDmitry/WB_L2/develop/dev11/internal/logger.(*CustomLogger).Log
+	c:/Users/Cybernet1c/Repository/WB_L2/WB_L2/develop/dev11/internal/logger/mylog.go:34
+github.com/KapDmitry/WB_L2/develop/dev11/internal/handlers.(*Handler).DeleteEventHandler
+	c:/Users/Cybernet1c/Repository/WB_L2/WB_L2/develop/dev11/internal/handlers/handlers.go:122
+github.com/KapDmitry/WB_L2/develop/dev11/internal/handlers.TestDeleteEventHandler
+	c:/Users/Cybernet1c/Repository/WB_L2/WB_L2/develop/dev11/internal/handlers/handlers_test.go:264
+testing.tRunner
+	C:/Program Files/Go/src/testing/testing.go:1595
